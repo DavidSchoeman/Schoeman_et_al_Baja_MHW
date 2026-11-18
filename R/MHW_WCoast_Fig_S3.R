@@ -91,7 +91,7 @@
         ylim = c(15, 35),
         expand = FALSE
       ) +
-      labs(fill = str_wrap("Decade that cumulative monthly MHW intensity for Spetember 2026 is projected to be attained", 15),
+      labs(fill = str_wrap("Decade that cumulative monthly MHW intensity for September 2026 is projected to be attained", 15),
            title = ssp) +
       theme(
         plot.title = element_text(
